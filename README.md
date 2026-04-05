@@ -10,7 +10,7 @@ A passionate mobile developer specializing in Flutter, building polished cross-p
 
 - 📱 Flutter developer with hands-on experience building production apps on the Play Store & App Store
 - 🏗️ Strong believer in Clean Architecture and SOLID principles
-- 🌍 Based in Cairo, Egypt — open to remote opportunities
+- 🌍 Based in Damietta, Egypt — open to remote opportunities
 - 🎓 B.Eng. in Computer Science & Control Engineering, Mansoura University
 
 ---
