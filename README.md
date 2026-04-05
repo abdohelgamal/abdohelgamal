@@ -1,63 +1,81 @@
-# Hello, I'm Abdelrahman Elgamal 👋
-### Flutter Developer | Mobile Solutions Specialist
+# Hi there, I'm Abdelrahman Sherif ELGamal 👋
 
-[cite_start]I am a software developer based in **Cairo, Egypt** [cite: 2][cite_start], with over 4 years of experience building high-performance mobile applications using **Flutter**[cite: 7, 54]. My expertise lies in creating robust, scalable architectures and delivering seamless user experiences across iOS and Android.
+### Flutter Mobile Developer | Cairo, Egypt
 
----
-
-### 🚀 Professional Highlights
-* [cite_start]**Current Role:** Mobile Applications Developer at **Lightring Technology**[cite: 57].
-* [cite_start]**Education:** B. Eng. in Computer Science and Control Engineering from **Mansoura University**[cite: 62, 63].
-* [cite_start]**Experience:** Proven track record in sectors ranging from AI-driven document exploration to media streaming and synchronized hardware patterns[cite: 10, 18, 22].
+A passionate mobile developer specializing in Flutter, building polished cross-platform apps for iOS and Android. I care deeply about clean architecture, great UX, and writing maintainable code.
 
 ---
 
-### 🛠️ Technical Toolbox
+## 🚀 About Me
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Mobile** | [cite_start]Flutter, Dart, Android SDK, iOS SDK, Xcode [cite: 25, 30, 34] |
-| **State Management** | [cite_start]BLoC, Riverpod, Provider, GetX [cite: 26] |
-| **Architecture** | [cite_start]Clean Architecture, MVVM, S.O.L.I.D Principles [cite: 32, 33, 46] |
-| **Backend/Cloud** | [cite_start]Firebase (Auth, DB, Cloud Messaging), RESTful & GraphQL APIs [cite: 28, 35, 36] |
-| **Database** | [cite_start]Sqflite, Hive, SQL [cite: 27, 47] |
-| **Integrations** | [cite_start]Apple Pay, Google Pay, Moyaser, Google Maps API [cite: 31, 39, 40] |
+- 📱 Flutter developer with hands-on experience building production apps on the Play Store & App Store
+- 🏗️ Strong believer in Clean Architecture and SOLID principles
+- 🌍 Based in Cairo, Egypt — open to remote opportunities
+- 🎓 B.Eng. in Computer Science & Control Engineering, Mansoura University
 
 ---
 
-### 📱 Featured Projects
+## 🛠️ Technical Skills
 
-#### 🤖 [Knowledge Navigator](https://github.com/abdohelgamal)
-[cite_start]An **AI-driven document exploration platform**[cite: 21].
-* [cite_start]Integrated advanced AI chat interfaces for natural conversation with uploaded documents[cite: 22].
-* [cite_start]Developed at Lightring Technology[cite: 23].
+### Flutter & Dart
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-#### 🎧 [Lamha Audiobooks](https://github.com/abdohelgamal)
-[cite_start]An **online media service** for summarized books and podcasts[cite: 10].
-* [cite_start]Focused on optimized audio streaming and content management[cite: 10].
-* [cite_start]Developed at Lamha[cite: 56].
+- **State Management**: BLoC, Riverpod, Provider, GetX
+- **Local Storage**: SQLite, Hive
+- **APIs**: RESTful, GraphQL
+- **Architecture**: Clean Architecture, MVVM
+- **Integrations**: Google Maps API, Apple Pay, Google Pay, Moyasar
+- **DevOps**: Firebase Crashlytics, Sentry, Push Notifications, Localization
 
-#### ⚡ [LightWave](https://github.com/abdohelgamal)
-[cite_start]An innovative app for **synchronized visual experiences**[cite: 18].
-* [cite_start]Uses synchronized flashlight patterns across multiple mobile devices for events[cite: 18].
-* [cite_start]Developed at Lightring Technology[cite: 19].
+### General
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+- Data Structures & Algorithms, Design Patterns, OOP
+- Git, GitHub, GitLab
+- Postman
+
+---
+
+## 📦 Featured Projects
+
+### 🎧 [Lamha — Audiobooks & Podcasts](https://play.google.com/store/apps/details?id=com.lamha.app)
+An online media service to play summarized book audios and podcasts produced by the Lamha team. Built and maintained the full Flutter app from the ground up.
 
 ---
 
-### 📈 GitHub Ecosystem
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abdohelgamal&show_icons=true&theme=visual_studio_code&hide_border=true" alt="Abdelrahman's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdohelgamal&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Languages" />
-</p>
+### 🎫 [ITPC-MS — Ticketing System](https://play.google.com/store/apps/details?id=com.itpc.ms)
+A mobile companion to ITPC's internal ticketing system — users can open, track, comment on tickets, and view closure statistics from their phone.
 
 ---
 
-### 📫 Let's Connect!
-
-* [cite_start]**LinkedIn:** [Abdelrahman Elgamal](https://www.linkedin.com/in/abdelrahman-elgamal/) [cite: 5]
-* [cite_start]**Email:** [abdohelgamal@gmail.com](mailto:abdohelgamal@gmail.com) [cite: 4]
-* [cite_start]**Phone:** [+20 100 750 4615](tel:+201007504615) [cite: 3]
-* [cite_start]**Location:** Cairo, Egypt [cite: 2]
+### 💡 [LightWave — Event Flashlight App](https://play.google.com/store/apps/details?id=com.lightwave.app)
+An innovative app that creates synchronized flashlight patterns across event attendees' devices for immersive visual experiences.
 
 ---
-*“Building the future of mobile, one widget at a time.”*
+
+### 🤖 [Knowledge Navigator — AI Document Explorer](https://play.google.com/store/apps/details?id=com.knowledgenavigator.app)
+An intelligent document platform powered by AI — users upload documents and explore them through a natural chat interface, getting precise answers without manual searching.
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|---|---|---|
+| Jun 2023 – Present | Mobile Developer | Lightring Technology |
+| Jan 2023 – Aug 2023 | Mobile Developer | Lamha |
+| Jul 2022 – Feb 2023 | Mobile Developer | Lightbulb Tech |
+| Apr 2022 – Jul 2022 | Mobile Developer | EG-Coders |
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elgamal/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abdohelgamal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abdohelgamal@gmail.com)
