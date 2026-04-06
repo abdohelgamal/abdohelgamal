@@ -1,6 +1,8 @@
-# Hi there, I'm Abdelrahman Sherif ELGamal 👋
+# Hi there, I'm Abdelrahman Sherif ELGamal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
 ### Flutter Mobile Developer | Cairo, Egypt
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdohelgamal&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 A passionate mobile developer specializing in Flutter, building polished cross-platform apps for iOS and Android. I care deeply about clean architecture, great UX, and writing maintainable code.
 
